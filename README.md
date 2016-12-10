@@ -10,7 +10,7 @@ Tools used:
 * Bootstrap
 
 
-What doesn't work:
+What <em>doesn't</em> work:
 
 * Following other users
 * Viewing other users' profile
