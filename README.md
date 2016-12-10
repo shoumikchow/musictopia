@@ -8,3 +8,9 @@ Languages used:
 Tools used:
 
 * Bootstrap
+
+
+What doesn't work:
+
+* Following other users
+* Viewing other users' profile
